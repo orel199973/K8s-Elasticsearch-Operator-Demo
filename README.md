@@ -1,4 +1,4 @@
-# K8s-Elasticsearch-Operator-Demo
+# K8s-Elasticsearch-Operator-Demo <img title="ElasticSearch" alt="ElasticSearch" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/elasticsearch/elasticsearch.png"> <br>
 
 ## Elastic portal:
 ![image](https://user-images.githubusercontent.com/47865329/143471413-9a4ef02e-5068-4fd7-bc9e-e028b680138f.png)
